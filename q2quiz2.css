@@ -1,0 +1,14 @@
+img{
+	height: 30px;
+	width: 30px;
+}
+body{
+	background-color: #d92323;
+		background-image: url(https://media.istockphoto.com/id/1384683390/vector/simple-blue-gradation-background-vector-illustration-material.jpg?s=612x612&w=0&k=20&c=yCM7smEqKIOu-t6TJl59y7el4Wc7lVjjh-a32NKGhgI=);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+a{
+	color: grey;
+}
