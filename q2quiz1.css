@@ -4,3 +4,8 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+}
+#logo{
+	height: 30px;
+	width: 30px;
+}
